@@ -41,7 +41,7 @@ const Content = () => {
 
 export default function Hero() {
   return (
-    <>
+    <div>
       <Header />
       <Content />
       <Link
@@ -50,6 +50,6 @@ export default function Hero() {
       >
         Try now!
       </Link>
-    </>
+    </d>
   )
 }
